@@ -1,2 +1,2 @@
 # github-workflow2
-## To improve is to chance
+## To improve is to chance.
